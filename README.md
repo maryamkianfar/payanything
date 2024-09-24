@@ -7,6 +7,7 @@ Want to pay for stuff with your altcoins while on the go? Do merchants only acce
 
 ![Image](https://raw.githubusercontent.com/physicsdude/payanything/master/public/img/demo/home.jpg)
 
+
 # Scan the qr code displayed by the merchant
 
 ![Image](https://raw.githubusercontent.com/physicsdude/payanything/master/public/img/demo/scanning-qr.jpg)
